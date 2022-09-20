@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api?username=ART3MISTICAL&&show_icons=true&count_private=true&theme=material-palenight" />
 </a>
 <a href="https://github.com/art3mistical/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api/top-langs/?username=art3mistical&layout=compact&&count_private=true&hide=CMake,WebAssembly,PureBasic,C,c%2B%2B&theme=material-palenight&exclude_repo=configs" />
+  <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api/top-langs/?username=art3mistical&layout=compact&&langs_count=6&count_private=true&hide=CMake,WebAssembly,PureBasic,C,c%2B%2B,swift,kotlin&theme=material-palenight&exclude_repo=configs" />
 </a>
 
 <br/>
