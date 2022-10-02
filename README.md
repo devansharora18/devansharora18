@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
 <h3 align="center">A developer from India</h3>
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Linux**
 
