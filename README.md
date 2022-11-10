@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
 <h3 align="center">A developer from India</h3>
 
+- 🔭 I’m currently working on **A prodcutivity app**
+
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **dev.marvel.avengers@gmail.com**
 
@@ -16,16 +18,29 @@
 
 <br/>
 <br/>
-
+<!-- <center> -->
+<div align="center">
 <a href="https://github.com/art3mistical/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api?username=ART3MISTICAL&&show_icons=true&count_private=true&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api?username=ART3MISTICAL&&show_icons=true&count_private=true&theme=dark" />
 </a>
+</div>
+<br/>
+<div align="center">
 <a href="https://github.com/art3mistical/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api/top-langs/?username=art3mistical&layout=compact&&langs_count=6&count_private=true&hide=CMake,WebAssembly,PureBasic,C,c%2B%2B,swift,kotlin&theme=material-palenight&exclude_repo=configs" />
+  <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api/top-langs/?username=art3mistical&layout=compact&&langs_count=6&count_private=true&hide=CMake,WebAssembly,PureBasic,C,c%2B%2B,swift,kotlin&theme=dark&exclude_repo=configs" />
 </a>
+</div>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=art3mistical&theme=dark" alt="art3mistical" /></p>
 
 <br/>
 <br/>
 <br/>
-
+<div align="center">
+ 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f9fnalnzcmlhzdf2w2lnmiz0k&cover_image=true&theme=compact&show_offline=true)](https://spotify-github-profile.vercel.app/api/view?uid=f9fnalnzcmlhzdf2w2lnmiz0k&redirect=true)
+ </div>
+<!--   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=art3mistical&show_icons=true&theme=dark&locale=en" alt="art3mistical" /></p> -->
+
+<!--  <center> -->
+<!-- </div> -->
