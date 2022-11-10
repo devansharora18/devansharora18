@@ -34,8 +34,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=art3mistical&theme=dark" alt="art3mistical" /></p>
 
 <br/>
-<br/>
-<br/>
 <div align="center">
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f9fnalnzcmlhzdf2w2lnmiz0k&cover_image=true&theme=compact&show_offline=true)](https://spotify-github-profile.vercel.app/api/view?uid=f9fnalnzcmlhzdf2w2lnmiz0k&redirect=true)
