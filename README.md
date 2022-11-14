@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">A fullstack developer from India</h3>
 
 - 🔭 I’m currently working on **A prodcutivity app**
 
