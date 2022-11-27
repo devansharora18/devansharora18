@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A prodcutivity app**
 
-- 🌱 I’m currently learning **Nest Js**
+- 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **Flutter**
 
