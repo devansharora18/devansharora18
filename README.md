@@ -33,8 +33,6 @@
 </div>
 <br/>
 
-<!--   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=art3mistical&show_icons=true&theme=dark&locale=en" alt="art3mistical" /></p> -->
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ART3MISTICAL"/>
 </div>
