@@ -37,8 +37,5 @@
 <img src="https://komarev.com/ghpvc/?username=ART3MISTICAL"/>
 </div>
 
-<!--  <center> -->
-<!-- </div> -->
-
 
 
