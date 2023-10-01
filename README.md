@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
 <h3 align="center">A fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Music Hosting App**
+- 🔭 I’m currently working on **Some AI tools**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Competitive programming**
 
 - 💬 Ask me about **Flutter**
 
