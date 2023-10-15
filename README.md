@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **hsnaved.reverse@gmail.com**
+- 📫 How to reach me **mail@devansharora.tech**
 
 - ⚡ Fun fact **I use arch btw**
 
