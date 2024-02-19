@@ -9,8 +9,8 @@ Hello, I am Devansh Arora, and I'm a student at Delhi Public School Faridabad. M
 
 * Programming languages: Python, C++, JS, TS, Dart, HTML, CSS
 * Operating system: Arch Linux
-* Frameworks/libraries: ReactJS, NextJS, Django, Flutter, Firebase, Flask, TailwindCSS, ThreeJS, MongoDB
-* Tools and technologies: Visual Studio Code, Thunder Client, Github Copilot, Neovim (for configs)
+* Frameworks/libraries/technologies: ReactJS, NextJS, Django, Flutter, Firebase, Flask, TailwindCSS, ThreeJS, MongoDB
+* Tools: Visual Studio Code, Thunder Client, Github Copilot, Neovim (for configs)
 
 
 ## Contact Me
