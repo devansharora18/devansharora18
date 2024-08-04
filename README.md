@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello, I am Devansh Arora, and I'm a student at Delhi Public School Faridabad. My interests include Coding, Chess, and Cricket.
+Hello, I am Devansh Arora, and I'm a student at VIT Vellore. My interests include Coding, Chess, and Cricket.
 
 ## Skills
 
@@ -17,7 +17,7 @@ Hello, I am Devansh Arora, and I'm a student at Delhi Public School Faridabad. M
 
 If you want to contact me, feel free to reach out to me through any of the following platforms:
 
-* Email: mail@devansharora.tech
+* Email: hsnaved.reverse@gmail.com
 * LinkedIn: [Devansh Arora](https://www.linkedin.com/in/devansh-arora-7b2395215/)
 
 <div align="center">
