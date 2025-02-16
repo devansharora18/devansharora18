@@ -21,7 +21,7 @@ If you want to contact me, feel free to reach out to me through any of the follo
 * LinkedIn: [Devansh Arora](https://www.linkedin.com/in/devansh-arora-7b2395215/)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ART3MISTICAL"/>
+<img src="https://komarev.com/ghpvc/?username=devansharora18"/>
 </div>
 
 
