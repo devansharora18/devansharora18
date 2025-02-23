@@ -17,7 +17,7 @@ Hello, I am Devansh Arora, and I'm a student at VIT Vellore. My interests includ
 
 If you want to contact me, feel free to reach out to me through any of the following platforms:
 
-* Email: hsnaved.reverse@gmail.com
+* Email: mail@devansharora.in
 * LinkedIn: [Devansh Arora](https://www.linkedin.com/in/devansh-arora-7b2395215/)
 
 <div align="center">
